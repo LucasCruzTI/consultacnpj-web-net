@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cit.analista3\\Downloads\\ConsultaCNPJ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4325FD7-75BA-48BD-98DC-893BF0D6D12F}|ConsultaCNPJ\\ConsultaCNPJ.csproj|c:\\users\\cit.analista3\\downloads\\consultacnpj\\consultacnpj\\controllers\\grupo7temacnpjcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4325FD7-75BA-48BD-98DC-893BF0D6D12F}|ConsultaCNPJ\\ConsultaCNPJ.csproj|solutionrelative:consultacnpj\\controllers\\grupo7temacnpjcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4325FD7-75BA-48BD-98DC-893BF0D6D12F}|ConsultaCNPJ\\ConsultaCNPJ.csproj|c:\\users\\cit.analista3\\downloads\\consultacnpj\\consultacnpj\\views\\grupo7temacnpj\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4325FD7-75BA-48BD-98DC-893BF0D6D12F}|ConsultaCNPJ\\ConsultaCNPJ.csproj|solutionrelative:consultacnpj\\views\\grupo7temacnpj\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4325FD7-75BA-48BD-98DC-893BF0D6D12F}|ConsultaCNPJ\\ConsultaCNPJ.csproj|c:\\users\\cit.analista3\\downloads\\consultacnpj\\consultacnpj\\views\\grupo7temacnpj\\dadoscnpj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4325FD7-75BA-48BD-98DC-893BF0D6D12F}|ConsultaCNPJ\\ConsultaCNPJ.csproj|solutionrelative:consultacnpj\\views\\grupo7temacnpj\\dadoscnpj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4325FD7-75BA-48BD-98DC-893BF0D6D12F}|ConsultaCNPJ\\ConsultaCNPJ.csproj|c:\\users\\cit.analista3\\downloads\\consultacnpj\\consultacnpj\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4325FD7-75BA-48BD-98DC-893BF0D6D12F}|ConsultaCNPJ\\ConsultaCNPJ.csproj|solutionrelative:consultacnpj\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4325FD7-75BA-48BD-98DC-893BF0D6D12F}|ConsultaCNPJ\\ConsultaCNPJ.csproj|c:\\users\\cit.analista3\\downloads\\consultacnpj\\consultacnpj\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E4325FD7-75BA-48BD-98DC-893BF0D6D12F}|ConsultaCNPJ\\ConsultaCNPJ.csproj|solutionrelative:consultacnpj\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4325FD7-75BA-48BD-98DC-893BF0D6D12F}|ConsultaCNPJ\\ConsultaCNPJ.csproj|c:\\users\\cit.analista3\\downloads\\consultacnpj\\consultacnpj\\infraestrutura\\helperapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4325FD7-75BA-48BD-98DC-893BF0D6D12F}|ConsultaCNPJ\\ConsultaCNPJ.csproj|solutionrelative:consultacnpj\\infraestrutura\\helperapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HelperAPI.cs",
+              "DocumentMoniker": "C:\\Users\\cit.analista3\\Downloads\\ConsultaCNPJ\\ConsultaCNPJ\\Infraestrutura\\HelperAPI.cs",
+              "RelativeDocumentMoniker": "ConsultaCNPJ\\Infraestrutura\\HelperAPI.cs",
+              "ToolTip": "C:\\Users\\cit.analista3\\Downloads\\ConsultaCNPJ\\ConsultaCNPJ\\Infraestrutura\\HelperAPI.cs",
+              "RelativeToolTip": "ConsultaCNPJ\\Infraestrutura\\HelperAPI.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T19:03:19.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cit.analista3\\Downloads\\ConsultaCNPJ\\ConsultaCNPJ\\Views\\Grupo7TemaCNPJ\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConsultaCNPJ\\Views\\Grupo7TemaCNPJ\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cit.analista3\\Downloads\\ConsultaCNPJ\\ConsultaCNPJ\\Views\\Grupo7TemaCNPJ\\Index.cshtml",
+              "RelativeToolTip": "ConsultaCNPJ\\Views\\Grupo7TemaCNPJ\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T19:03:19.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dadosCNPJ.cshtml",
+              "DocumentMoniker": "C:\\Users\\cit.analista3\\Downloads\\ConsultaCNPJ\\ConsultaCNPJ\\Views\\Grupo7TemaCNPJ\\dadosCNPJ.cshtml",
+              "RelativeDocumentMoniker": "ConsultaCNPJ\\Views\\Grupo7TemaCNPJ\\dadosCNPJ.cshtml",
+              "ToolTip": "C:\\Users\\cit.analista3\\Downloads\\ConsultaCNPJ\\ConsultaCNPJ\\Views\\Grupo7TemaCNPJ\\dadosCNPJ.cshtml",
+              "RelativeToolTip": "ConsultaCNPJ\\Views\\Grupo7TemaCNPJ\\dadosCNPJ.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T19:03:19.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\cit.analista3\\Downloads\\ConsultaCNPJ\\ConsultaCNPJ\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ConsultaCNPJ\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\cit.analista3\\Downloads\\ConsultaCNPJ\\ConsultaCNPJ\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ConsultaCNPJ\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T19:19:44.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Grupo7TemaCNPJController.cs",
+              "DocumentMoniker": "C:\\Users\\cit.analista3\\Downloads\\ConsultaCNPJ\\ConsultaCNPJ\\Controllers\\Grupo7TemaCNPJController.cs",
+              "RelativeDocumentMoniker": "ConsultaCNPJ\\Controllers\\Grupo7TemaCNPJController.cs",
+              "ToolTip": "C:\\Users\\cit.analista3\\Downloads\\ConsultaCNPJ\\ConsultaCNPJ\\Controllers\\Grupo7TemaCNPJController.cs",
+              "RelativeToolTip": "ConsultaCNPJ\\Controllers\\Grupo7TemaCNPJController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wAgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T19:03:19.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\cit.analista3\\Downloads\\ConsultaCNPJ\\ConsultaCNPJ\\wwwroot\\js\\script.js",
+              "RelativeDocumentMoniker": "ConsultaCNPJ\\wwwroot\\js\\script.js",
+              "ToolTip": "C:\\Users\\cit.analista3\\Downloads\\ConsultaCNPJ\\ConsultaCNPJ\\wwwroot\\js\\script.js",
+              "RelativeToolTip": "ConsultaCNPJ\\wwwroot\\js\\script.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-21T19:03:19.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

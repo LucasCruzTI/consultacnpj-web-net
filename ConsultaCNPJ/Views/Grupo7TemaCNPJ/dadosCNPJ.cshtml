@@ -1,0 +1,17 @@
+﻿@model ConsultaCNPJ.Models.ConsultaCPNJOutPut
+
+<h2 class="text-center">Informações do CNPJ:</h2>
+<div class="container">
+
+    <div class="col-md-12">
+        <p><strong>Razão Social:</strong> @Model.RazaoSocial</p>
+        <p><strong>Nome Fantasia:</strong> @Model.NomeFantasia</p>
+        <p><strong>Situação Cadastral:</strong> @Model.DescricaoSituacaoCadastral</p>
+        <p><strong>Atividade Principal:</strong> @Model.CnaeFiscalDescricao</p>
+    </div>
+    <div class="col-md-12">
+        <p><strong>Endereço:</strong> @Model.Logradouro, @Model.Numero - @Model.Bairro, @Model.Municipio/@Model.Uf</p>
+        <p><strong>Telefone:</strong> @Model.DddTelefone1</p>
+    </div>
+
+</div>

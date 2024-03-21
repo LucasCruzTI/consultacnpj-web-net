@@ -1,0 +1,66 @@
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\ConsultaCNPJ.csproj.AssemblyReference.cache
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\ConsultaCNPJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\ConsultaCNPJ.AssemblyInfoInputs.cache
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\ConsultaCNPJ.AssemblyInfo.cs
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\ConsultaCNPJ.csproj.CoreCompileInputs.cache
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\ConsultaCNPJ.MvcApplicationPartsAssemblyInfo.cache
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\ConsultaCNPJ.RazorAssemblyInfo.cache
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\ConsultaCNPJ.RazorAssemblyInfo.cs
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net8.0\appsettings.Development.json
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net8.0\appsettings.json
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net8.0\ConsultaCNPJ.staticwebassets.runtime.json
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net8.0\ConsultaCNPJ.exe
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net8.0\ConsultaCNPJ.deps.json
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net8.0\ConsultaCNPJ.runtimeconfig.json
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net8.0\ConsultaCNPJ.dll
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net8.0\ConsultaCNPJ.pdb
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\staticwebassets.build.json
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\staticwebassets.development.json
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\staticwebassets\msbuild.ConsultaCNPJ.Microsoft.AspNetCore.StaticWebAssets.props
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\staticwebassets\msbuild.build.ConsultaCNPJ.props
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ConsultaCNPJ.props
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ConsultaCNPJ.props
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\staticwebassets.pack.json
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\scopedcss\bundle\ConsultaCNPJ.styles.css
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\scopedcss\projectbundle\ConsultaCNPJ.bundle.scp.css
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\ConsultaCNPJ.csproj.CopyComplete
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\ConsultaCNPJ.dll
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\refint\ConsultaCNPJ.dll
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\ConsultaCNPJ.pdb
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\ConsultaCNPJ.genruntimeconfig.cache
+C:\PUC\Projeto Integrado\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\ref\ConsultaCNPJ.dll
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net8.0\appsettings.json
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net8.0\ConsultaCNPJ.staticwebassets.runtime.json
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net8.0\ConsultaCNPJ.exe
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net8.0\ConsultaCNPJ.deps.json
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net8.0\ConsultaCNPJ.runtimeconfig.json
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net8.0\ConsultaCNPJ.dll
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net8.0\ConsultaCNPJ.pdb
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\ConsultaCNPJ.csproj.AssemblyReference.cache
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\ConsultaCNPJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\ConsultaCNPJ.AssemblyInfoInputs.cache
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\ConsultaCNPJ.AssemblyInfo.cs
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\ConsultaCNPJ.csproj.CoreCompileInputs.cache
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\ConsultaCNPJ.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\ConsultaCNPJ.RazorAssemblyInfo.cache
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\ConsultaCNPJ.RazorAssemblyInfo.cs
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\staticwebassets\msbuild.ConsultaCNPJ.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\staticwebassets\msbuild.build.ConsultaCNPJ.props
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ConsultaCNPJ.props
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ConsultaCNPJ.props
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\scopedcss\bundle\ConsultaCNPJ.styles.css
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\scopedcss\projectbundle\ConsultaCNPJ.bundle.scp.css
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\Consulta.F4EE9201.Up2Date
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\ConsultaCNPJ.dll
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\refint\ConsultaCNPJ.dll
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\ConsultaCNPJ.pdb
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\ConsultaCNPJ.genruntimeconfig.cache
+C:\Users\cit.analista3\Downloads\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net8.0\ref\ConsultaCNPJ.dll
